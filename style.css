@@ -158,8 +158,12 @@ input{
         flex-direction: row;
         flex-wrap: wrap;
         justify-content: center;
-        gap:10px;
+        gap:15px;
     }
 
+    .hd-line{
+        font-size: 1.1em;
+        padding: 0.8em 0;
+    }
 
 }
